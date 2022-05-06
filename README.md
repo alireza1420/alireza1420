@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sang.j
 - 👀 I’m interested in ...webdesign(HTML,CSS,WORDPRESS,BOOTSTRAP),c++,php
 - 🌱 I’m currently learning ...js
-- 💞️ I’m looking to collaborate on webdeveloping
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...alirezafaghihi1383@gmail.com
 
 <!---
