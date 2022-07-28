@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alireza
-- 👀 I’m interested in ...webdesign(HTML,CSS,WORDPRESS,BOOTSTRAP),c++,php
-- 🌱 I’m currently learning ...js
+- 👀 I’m interested in ...webdevelopment(HTML,CSS,WORDPRESS,BOOTSTRAP),php
+- 🌱 I’m currently learning ...c#
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...alirezafaghihi1383@gmail.com
 
